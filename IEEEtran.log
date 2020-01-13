@@ -1,0 +1,15 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdftex 2015.3.9)  9 MAR 2015 21:41
+entering extended mode
+**E:/Latex/IEEEtran5/IEEEtran.cls
+(E:/Latex/IEEEtran5/IEEEtran.cls
+! Undefined control sequence.
+l.198 \ProvidesClass
+                    {IEEEtran}[2012/11/21 V1.8c by Harald Hanche-Olsen and A...
+
+? 
+! Emergency stop.
+l.198 \ProvidesClass
+                    {IEEEtran}[2012/11/21 V1.8c by Harald Hanche-Olsen and A...
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!

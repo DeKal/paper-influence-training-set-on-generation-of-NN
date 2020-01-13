@@ -1,0 +1,13 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Paper.aux
+The style file: IEEEtran.bst
+Database file #1: IEEEabrv.bib
+Database file #2: mybib.bib
+-- IEEEtran.bst version 1.12 (2007/01/11) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in IGotMoreData
+Warning--missing publisher in WhenItSeem
+Warning--empty author in BiasVarianceDecomposition
+
+Done.
+(There were 3 warnings)
